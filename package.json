@@ -37,7 +37,7 @@
   "author": "TJ Woon <tj@cloudsky.org>",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/tjwoon/csZBar/issues"
+    "url": "https://github.com/vlinde/csZBar/issues"
   },
-  "homepage": "https://github.com/tjwoon/csZBar#readme"
+  "homepage": "https://github.com/vlinde/csZBar#readme"
 }
